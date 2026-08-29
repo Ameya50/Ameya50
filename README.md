@@ -28,4 +28,4 @@ I design and verify digital hardware end-to-end — RTL through synthesis, place
   <img src="https://github-readme-stats.vercel.app/api?username=Ameya50&show_icons=true&theme=default" alt="GitHub Stats" />
 </p>
 
-📄 Full resume: see the [Resume repo](https://github.com/Ameya50/Resume)
+📄 [Download my resume (PDF)](main.pdf)
