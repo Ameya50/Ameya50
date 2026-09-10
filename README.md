@@ -12,6 +12,7 @@ I design and verify hardware end-to-end across both **digital** and **analog** I
 - ⚡ Digital flow: **Verilog HDL → Cadence Genus (synthesis) → Innovus (P&R) → Tempus (STA signoff) → Voltus (power signoff)**.
 - 🔬 Analog flow: **Cadence Virtuoso (schematic/layout/ADE) → Spectre (simulation) → Calibre (DRC/LVS)** — op-amps and voltage references from schematic through signoff.
 - 🎓 M.Tech VLSI and Nanoelectronics, IIT Guwahati (2025–Present) · B.Tech, Bhilai Institute of Technology Durg (2020–2024).
+- 🏅 GATE EC 2025: AIR 360 · GATE IN 2025: AIR 126
 
 ### 🚀 Featured Projects
 
