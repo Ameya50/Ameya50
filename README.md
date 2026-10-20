@@ -42,3 +42,4 @@ I design and verify hardware end-to-end across both **digital** and **analog** I
 
 📄 Resume — [Digital (PDF)](main.pdf) · [Analog (PDF)](analog-resume.pdf)
 
+
